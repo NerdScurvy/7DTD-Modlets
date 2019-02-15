@@ -1,0 +1,5 @@
+<configs>
+    <!-- Extend range of auger -->
+	<set xpath="/items/item[@name='meleeToolAuger']/effect_group[@name='Base Effects']]/passive_effect[@name='MaxRange']/@value">3.4</set>
+	
+</configs>
