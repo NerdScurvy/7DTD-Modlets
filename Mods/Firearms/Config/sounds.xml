@@ -390,8 +390,8 @@
 
 	<set xpath="/Sounds/SoundDataNode[@name='mp5_s_fire']/Noise/@range">2</set>
 	<set xpath="/Sounds/SoundDataNode[@name='mp5_s_fire']/Noise/@volume">4</set>
-	<set xpath="/Sounds/SoundDataNode[@name='mp5_s_fire']/Noise/@heat_map_strength">0.005</set>
-	<set xpath="/Sounds/SoundDataNode[@name='mp5_s_fire']/Noise/@heat_map_time">5</set>
+	<!--<set xpath="/Sounds/SoundDataNode[@name='mp5_s_fire']/Noise/@heat_map_strength">0.005</set>
+	<set xpath="/Sounds/SoundDataNode[@name='mp5_s_fire']/Noise/@heat_map_time">5</set>-->
 
 	<set xpath="/Sounds/SoundDataNode[@name='hunting_rifle_s_fire']/Noise/@range">2</set>
 	<set xpath="/Sounds/SoundDataNode[@name='hunting_rifle_s_fire']/Noise/@volume">2</set>
